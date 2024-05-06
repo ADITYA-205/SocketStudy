@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+### NAME:S ADITYA
+### REG NO:212223040007
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
